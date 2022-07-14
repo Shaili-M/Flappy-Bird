@@ -1,7 +1,7 @@
 # Flappy Bird with a Flying Dog🐶
 #### 5 Python Projects in 5 Days - Day 1: Game Development
 ![app demo](/1_game/demo.gif)
-
+![app demo](/1_game/demo.gif)
 #### To run the game:
 	Install PyGame
 	$ python3 -m pip install -U pygame --user`
